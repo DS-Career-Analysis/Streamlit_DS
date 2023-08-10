@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('DS Career Analysis')
 st.subheader(':violet[Dais OpenLab]')
-st.caption('😎 박예린 윤기창 홍재민 😎')
+st.caption('윤기창 홍재민')
 
 # 깃허브 링크
 st.caption('👉 [Github](https://github.com/DS-Career-Analysis)')
